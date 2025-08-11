@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HocSinh()
+comment1.params=hoTen\ lop\ khoaHoc
+comment1.target=HocSinh(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=hoTen\ ngaySinh\ lop\ khoaHoc
+comment2.target=HocSinh(java.lang.String,\ java.util.Date,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getLop()
+comment4.params=
+comment4.target=void\ inThongTin()
+comment5.params=sc
+comment5.target=void\ nhapThongTin(java.util.Scanner)
+numComments=6

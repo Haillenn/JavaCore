@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=QLHS()
+comment1.params=hs
+comment1.target=void\ themHocSinh(HocSinh)
+comment2.params=sc
+comment2.target=void\ nhapDanhSach(java.util.Scanner)
+comment3.params=
+comment3.target=void\ inDanhSach()
+comment4.params=lop
+comment4.target=void\ timKiemHocSinh(java.lang.String)
+comment5.params=namSinh\ lop
+comment5.target=void\ timKiemHocSinh(int,\ java.lang.String)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

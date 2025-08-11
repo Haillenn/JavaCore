@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PhanSo()
+comment1.params=ts\ ms
+comment1.target=PhanSo(int,\ int)
+comment2.params=ps
+comment2.target=PhanSo\ congPs(PhanSo)
+comment3.params=a\ b
+comment3.target=int\ ucln(int,\ int)
+comment4.params=
+comment4.target=PhanSo\ rutGonPs()
+comment5.params=
+comment5.target=boolean\ kiemTraToiGian()
+comment6.params=
+comment6.target=java.lang.String\ inPs()
+numComments=7

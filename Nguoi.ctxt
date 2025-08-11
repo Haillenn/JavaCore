@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Nguoi()
+comment1.params=hoTen\ ngaySinh
+comment1.target=Nguoi(java.lang.String,\ java.util.Date)
+comment2.params=hoTen\ ngaySinh\ queQuan
+comment2.target=Nguoi(java.lang.String,\ java.util.Date,\ java.lang.String)
+comment3.params=
+comment3.target=void\ inThongTin()
+comment4.params=sc
+comment4.target=void\ nhapThongTin(java.util.Scanner)
+comment5.params=ngaySinhStr
+comment5.target=java.util.Date\ stringToDate(java.lang.String)
+comment6.params=
+comment6.target=java.util.Date\ getNgaySinh()
+numComments=7
