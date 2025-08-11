@@ -31,4 +31,4 @@ Một số chủ đề được triển khai trong các bài tập:
 ## ▶️ Cách chạy chương trình
 1. Clone repository:
    ```bash
-   git clone https://github.com/ten-tai-khoan/ten-repo.git
+   git clone https://github.com/Haillenn/JavaCore.git
